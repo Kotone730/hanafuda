@@ -1,1 +1,1 @@
-# hanafuda.io
+# hanafuda
